@@ -1,4 +1,4 @@
-Simple Github search form
+<h1>Simple Github search form</h1>
 
 Bootsstrap used for CSS
 
